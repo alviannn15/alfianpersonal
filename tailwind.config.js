@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     container: {
       center: true,
-      padding: "10rem",
+      // padding: "10rem",
     },
     fontFamily: {
       roboto: ["Roboto"],
