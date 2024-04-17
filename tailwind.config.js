@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     container: {
       center: true,
-      // padding: "10rem",
+     padding: "10rem",
     },
     fontFamily: {
       roboto: ["Roboto"],
@@ -17,9 +17,17 @@ module.exports = {
       colors: {
         primary: {
           blue: {
-            100: "#EBEFFF",
-            300: "#5438FD",
-            500: "#007bff",
+            50: "#EDEFFD",
+            100: "#DADEFB",
+            200: "#B1B9F6",
+            300: "#8D98F2",
+            400: "#6878EE",
+            500: "#4053E9",
+            600: "#192FD7",
+            700: "#1223A0",
+            800: "#0C1769",
+            900: "#060C37",
+            950: "#03061B"
           },
         },
         secondary: {
